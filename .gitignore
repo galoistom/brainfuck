@@ -3,3 +3,5 @@ racket/compiled/
 rust/target/
 go_command/brainfuck*
 go_type/*brainfuck
+racket/output
+racket/test
